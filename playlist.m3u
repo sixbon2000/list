@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Example_Logo.png",Demo Channel 1
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Another_Logo.png",Demo Channel 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Third_Logo.png",Demo Channel 3
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+# --- News Channels ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/BBC_Logo.png",BBC News (UK)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bbc.co.uk/news/10318089
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CNN_Logo.png",CNN (US)
+http://stream.cnn.com/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Al_Jazeera_Logo.png",Al Jazeera (International)
+http://stream.aljazeera.com/live
+
+# --- Sports Channels ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/ESPN_Logo.png",ESPN (US)
+http://sports.example.com/espn/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Sky_Sports_Logo.png",Sky Sports (UK)
+http://sports.example.com/skysports/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fox_Sports_Logo.png",Fox Sports (US)
+http://sports.example.com/foxsports/live
+
+# --- Kids Channels ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Cartoon_Network_Logo.png",Cartoon Network
+http://kids.example.com/cartoonnetwork/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Disney_Channel_Logo.png",Disney Channel
+http://kids.example.com/disney/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nickelodeon_Logo.png",Nickelodeon
+http://kids.example.com/nickelodeon/live
+
+# --- Movies and Entertainment ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HBO_Logo.png",HBO
+http://entertainment.example.com/hbo/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Netflix_Logo.png",Netflix Free Streams (Limited)
+http://entertainment.example.com/netflix/free
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AMC_Logo.png",AMC
+http://entertainment.example.com/amc/live
+
+# --- Music Channels ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/MTV_Logo.png",MTV
+http://music.example.com/mtv/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/VEVO_Logo.png",VEVO Hits
+http://music.example.com/vevo/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Classic_FM_Logo.png",Classic FM
+http://music.example.com/classic/live
+
+# --- Documentaries ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/National_Geographic_Logo.png",National Geographic
+http://documentary.example.com/natgeo/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Discovery_Channel_Logo.png",Discovery Channel
+http://documentary.example.com/discovery/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/History_Channel_Logo.png",History Channel
+http://documentary.example.com/history/live
